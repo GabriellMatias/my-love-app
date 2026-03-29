@@ -43,7 +43,7 @@ const stages: InviteStage[] = [
     id: 3,
     time: "20:30",
     title: "Pausa privada e divertida",
-    summary: "Depois do jantar, pausa íntima para elevar a temperatura.",
+    summary: "Depois do jantar, pausa íntima para elevar a temperatura, vamos fazer muitas coisas.",
     details:
       "No estacionamento, vamos curtir nosso lado mais atrevido, com liberdade, presença e muita vontade.",
     emoji: "🔥",
